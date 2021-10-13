@@ -1,6 +1,2 @@
-print("Hello World !")
-
-# THis is a comment Line 
-i  = 10
-for i < 10:
-    print("yes i less than 10")
+for i in range(1,len("arsalan rezazadeh")+1):
+    print(i)
